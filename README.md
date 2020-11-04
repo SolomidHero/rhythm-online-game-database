@@ -1,6 +1,8 @@
 # Rhythm online game database
 Example of normalised database for rhythm online game like 'osu!'
 
+![database scheme image](./rhythm_game_scheme.png)
+
 ## Prerequisites
 
 Any SQL-based database. All scripts were tested with PostgreSQL
